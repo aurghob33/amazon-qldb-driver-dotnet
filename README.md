@@ -1,4 +1,4 @@
-# Amazon QLDB .NET Driver
+# Amazon QLDB .NET Driver 
 
 This is the .NET driver for [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/), which allows .NET developers
 to write software that makes use of AmazonQLDB.
